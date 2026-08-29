@@ -104,5 +104,9 @@ streamlit run streamlit_app.py
 * Seaborn
 * FastAPI
 * Streamlit
+## Live Demo
+Try the deployed application here:
+
+[https://bank-marketing-ml-amjna8thmqp6kbhamqund2.streamlit.app/](https://bank-marketing-ml-amjna8thmqp6kbhamqund2.streamlit.app/)
 * Joblib
 * GitHub

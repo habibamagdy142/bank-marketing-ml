@@ -5,7 +5,7 @@ import joblib
 import pandas as pd
 
 # Load the trained model and preprocessor
-preprocessor, model = joblib.load("bank_marketing_model_compressed.pkl")
+preprocessor, model = joblib.load("bank_marketing_model_final.pkl")
 
 app = FastAPI()
 

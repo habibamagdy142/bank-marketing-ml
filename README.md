@@ -66,7 +66,7 @@ The application allows users to enter customer information and receive a predict
 ```text
 bank-marketing-ml/
 │
-├── Notebook.ipynb
+├── bank_marketing_model.ipynb
 ├── app.py
 ├── streamlit_app.py
 ├── requirements.txt
